@@ -1,2 +1,2 @@
-# kirim-chiqim-bot
+# bot
 JAVA project
